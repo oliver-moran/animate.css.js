@@ -28,12 +28,12 @@ Examples
     var el = document.getElementById("button");
 
     el.animate('tada'); // performs the 'tada' animation
-    el.animate('tada', callback); // "Animate.css done! [object Window];"
-    el.animate('tada', callback, document); // "Animate.css done! [object HTMLDocument];"
+    el.animate('tada', callback); // "Animate.css done! [object Window]"
+    el.animate('tada', callback, document); // "Animate.css done! [object HTMLDocument]"
 
     // the callback function used above
     function callback(){
-      alert("Animate.css done! " + this)
+      alert("Animate.css done! " + this);
     }
 
     </script>
