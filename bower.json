@@ -1,0 +1,15 @@
+{
+  "name": "Animate.css.js",
+  "main": "animate.css.min.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/oliver-moran/animate.css.js",
+  "authors": [
+    "Oliver Moran <oliver@nth-iteration.ie>"
+  ],
+  "description": "A JavaScript add-on to for Animate.css",
+  "keywords": [
+    "Animate.css",
+    "JavaScript"
+  ],
+  "license": "MIT"
+}
