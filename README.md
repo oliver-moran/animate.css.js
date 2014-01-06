@@ -47,4 +47,4 @@ A [jQuery](http://jquery.com/) plugin is provided with the script.  To use the p
 
     <button id="button" onclick="$(this).animate2('tada');">Click Me</button>
 
-The plugin adds a `animate2()` method to jQuery that accepts the same parameters as the HTMLElement add-on. The plugin fully supports collections and chaining, allowing multiple elements and animates to be applied in one line of code.
+The plugin adds a `animate2()` method to jQuery that accepts the same parameters as the HTMLElement add-on. The plugin fully supports collections and chaining, allowing multiple elements to be animated simultaneously in one line of code.
